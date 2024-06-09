@@ -1,6 +1,6 @@
 module mydownloadtool
 
-go 1.22.2
+go 1.19
 
 require (
 	github.com/aws/aws-sdk-go v1.52.1 // indirect
